@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 130">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #e31d24;
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="time_order" transform="translate(-968 -1500)">
+    <path id="Path_8" data-name="Path 8" class="cls-1" d="M11248.008,2737A64.13,64.13,0,0,1,11294,2756c11.016,12,19,28,19,45.993v48c0,10.007-6.992,17-16.984,17h-48.008a65,65,0,1,1,0-130Z" transform="translate(-10215 -1236.998)"/>
+    <g id="Group_52" data-name="Group 52" transform="translate(-3 -1)">
+      <g id="Rectangle_536" data-name="Rectangle 536" class="cls-2" transform="translate(1004 1541)">
+        <path class="cls-6" d="M4,0H60a4,4,0,0,1,4,4V56a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V4A4,4,0,0,1,4,0Z"/>
+        <path class="cls-7" d="M4,1H60a3,3,0,0,1,3,3V56a1,1,0,0,1-1,1H2a1,1,0,0,1-1-1V4A3,3,0,0,1,4,1Z"/>
+      </g>
+      <g id="Rectangle_537" data-name="Rectangle 537" class="cls-3" transform="translate(1005 1560)">
+        <rect class="cls-6" width="62" height="2"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="61" height="1"/>
+      </g>
+      <path id="Path_127" data-name="Path 127" class="cls-4" d="M1,0H12a1,1,0,0,1,0,2H1A1,1,0,0,1,1,0Z" transform="translate(1021 1536) rotate(90)"/>
+      <rect id="Rectangle_540" data-name="Rectangle 540" class="cls-4" width="13" height="2" rx="1" transform="translate(1053 1536) rotate(90)"/>
+      <g id="Ellipse_64" data-name="Ellipse 64" class="cls-2" transform="translate(1016 1547)">
+        <circle class="cls-6" cx="4" cy="4" r="4"/>
+        <circle class="cls-7" cx="4" cy="4" r="3"/>
+      </g>
+      <g id="Ellipse_65" data-name="Ellipse 65" class="cls-2" transform="translate(1048 1547)">
+        <circle class="cls-6" cx="4" cy="4" r="4"/>
+        <circle class="cls-7" cx="4" cy="4" r="3"/>
+      </g>
+      <g id="Ellipse_66" data-name="Ellipse 66" class="cls-5" transform="translate(1048 1579)">
+        <circle class="cls-6" cx="16" cy="16" r="16"/>
+        <circle class="cls-7" cx="16" cy="16" r="15"/>
+      </g>
+      <rect id="Rectangle_541" data-name="Rectangle 541" class="cls-4" width="6" height="2" rx="1" transform="translate(1065 1579) rotate(90)"/>
+      <rect id="Rectangle_545" data-name="Rectangle 545" class="cls-4" width="7" height="2" rx="1" transform="translate(1065 1589) rotate(90)"/>
+      <rect id="Rectangle_546" data-name="Rectangle 546" class="cls-4" width="7" height="2" rx="1" transform="translate(1064.414 1594) rotate(45)"/>
+      <rect id="Rectangle_544" data-name="Rectangle 544" class="cls-4" width="6" height="2" rx="1" transform="translate(1079.5 1596.5) rotate(180)"/>
+      <rect id="Rectangle_542" data-name="Rectangle 542" class="cls-4" width="6" height="2" rx="1" transform="translate(1065 1604) rotate(90)"/>
+      <rect id="Rectangle_543" data-name="Rectangle 543" class="cls-4" width="6" height="2" rx="1" transform="translate(1054.5 1596.5) rotate(180)"/>
+      <rect id="Rectangle_547" data-name="Rectangle 547" class="cls-4" width="4" height="4" rx="2" transform="translate(1019.5 1572.5) rotate(180)"/>
+      <rect id="Rectangle_555" data-name="Rectangle 555" class="cls-4" width="4" height="4" rx="2" transform="translate(1019.5 1581.5) rotate(180)"/>
+      <rect id="Rectangle_559" data-name="Rectangle 559" class="cls-4" width="4" height="4" rx="2" transform="translate(1019.5 1591.5) rotate(180)"/>
+      <rect id="Rectangle_548" data-name="Rectangle 548" class="cls-4" width="4" height="4" rx="2" transform="translate(1028.5 1572.5) rotate(180)"/>
+      <rect id="Rectangle_554" data-name="Rectangle 554" class="cls-4" width="4" height="4" rx="2" transform="translate(1028.5 1581.5) rotate(180)"/>
+      <rect id="Rectangle_558" data-name="Rectangle 558" class="cls-4" width="4" height="4" rx="2" transform="translate(1028.5 1591.5) rotate(180)"/>
+      <rect id="Rectangle_549" data-name="Rectangle 549" class="cls-4" width="4" height="4" rx="2" transform="translate(1037.5 1572.5) rotate(180)"/>
+      <rect id="Rectangle_553" data-name="Rectangle 553" class="cls-4" width="4" height="4" rx="2" transform="translate(1037.5 1581.5) rotate(180)"/>
+      <rect id="Rectangle_557" data-name="Rectangle 557" class="cls-4" width="4" height="4" rx="2" transform="translate(1037.5 1591.5) rotate(180)"/>
+      <rect id="Rectangle_550" data-name="Rectangle 550" class="cls-4" width="4" height="4" rx="2" transform="translate(1046.5 1572.5) rotate(180)"/>
+      <rect id="Rectangle_552" data-name="Rectangle 552" class="cls-4" width="4" height="4" rx="2" transform="translate(1046.5 1581.5) rotate(180)"/>
+      <rect id="Rectangle_551" data-name="Rectangle 551" class="cls-4" width="4" height="4" rx="2" transform="translate(1056.5 1572.5) rotate(180)"/>
+    </g>
+  </g>
+</svg>

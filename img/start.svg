@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 86 119.136">
+  <defs>
+    <style>
+
+      .cls-1, .cls-10, .cls-5, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke: #424242;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #424242;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-2);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-3);
+      }
+    </style>
+    <clipPath id="clip">
+      <use xlink:href="#fill"/>
+    </clipPath>
+    <clipPath id="clip-2">
+      <use xlink:href="#fill-2"/>
+    </clipPath>
+    <clipPath id="clip-3">
+      <use xlink:href="#fill-3"/>
+    </clipPath>
+  </defs>
+  <g id="ydobno" transform="translate(-278 -2641)">
+    <g id="Group_60" data-name="Group 60" transform="translate(-570 -82)">
+      <g id="Rectangle_279" data-name="Rectangle 279" class="cls-1" transform="translate(848 2760)">
+        <rect class="cls-6" width="86" height="64" rx="3"/>
+        <rect class="cls-7" x="1" y="1" width="84" height="62" rx="2"/>
+      </g>
+      <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-2" width="86" height="1.955" rx="0.977" transform="translate(848 2840.182)"/>
+      <path id="Rectangle_158" data-name="Rectangle 158" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(852.886 2837.25)"/>
+      <path id="Rectangle_159" data-name="Rectangle 159" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(861.682 2837.25)"/>
+      <path id="Rectangle_160" data-name="Rectangle 160" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(870.477 2837.25)"/>
+      <path id="Rectangle_161" data-name="Rectangle 161" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(879.273 2837.25)"/>
+      <path id="Rectangle_162" data-name="Rectangle 162" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(888.068 2837.25)"/>
+      <path id="Rectangle_163" data-name="Rectangle 163" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(896.864 2837.25)"/>
+      <path id="Rectangle_164" data-name="Rectangle 164" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(905.659 2837.25)"/>
+      <path id="Rectangle_165" data-name="Rectangle 165" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(914.455 2837.25)"/>
+      <path id="Rectangle_166" data-name="Rectangle 166" class="cls-2" d="M1,0H4.864a1,1,0,0,1,1,1v.955a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(923.25 2837.25)"/>
+      <g id="Rectangle_280" data-name="Rectangle 280" class="cls-1" transform="translate(880.25 2822.545)">
+        <path class="cls-6" d="M0,0H22.477a0,0,0,0,1,0,0V4.818a3,3,0,0,1-3,3H3a3,3,0,0,1-3-3V0A0,0,0,0,1,0,0Z"/>
+        <path class="cls-7" d="M2,1H20.477a1,1,0,0,1,1,1V4.818a2,2,0,0,1-2,2H3a2,2,0,0,1-2-2V2A1,1,0,0,1,2,1Z"/>
+      </g>
+      <rect id="Rectangle_281" data-name="Rectangle 281" class="cls-2" width="86" height="2.263" transform="translate(848 2812.773)"/>
+      <g id="Ellipse_35" data-name="Ellipse 35" class="cls-3" transform="translate(889.585 2815.705)">
+        <circle class="cls-6" cx="2.263" cy="2.263" r="2.263"/>
+        <circle class="cls-7" cx="2.263" cy="2.263" r="1.263"/>
+      </g>
+      <g id="Rectangle_567" data-name="Rectangle 567" class="cls-4" transform="translate(854 2723)">
+        <path class="cls-6" d="M3,0H71a3,3,0,0,1,3,3V69a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V3A3,3,0,0,1,3,0Z"/>
+        <path class="cls-7" d="M3,1H71a2,2,0,0,1,2,2V69a8,8,0,0,1-8,8H9a8,8,0,0,1-8-8V3A2,2,0,0,1,3,1Z"/>
+      </g>
+      <g id="Rectangle_569" data-name="Rectangle 569" class="cls-4" transform="translate(895 2739)">
+        <rect class="cls-6" width="25" height="26" rx="3"/>
+        <rect class="cls-7" x="1" y="1" width="23" height="24" rx="2"/>
+      </g>
+      <g id="Rectangle_571" data-name="Rectangle 571" class="cls-4" transform="translate(863 2772)">
+        <rect class="cls-6" width="24" height="6" rx="3"/>
+        <rect class="cls-7" x="1" y="1" width="22" height="4" rx="2"/>
+      </g>
+      <rect id="Rectangle_572" data-name="Rectangle 572" class="cls-2" width="24" height="2" rx="1" transform="translate(895 2772)"/>
+      <rect id="Rectangle_576" data-name="Rectangle 576" class="cls-2" width="24" height="2" rx="1" transform="translate(863 2782)"/>
+      <rect id="Rectangle_573" data-name="Rectangle 573" class="cls-2" width="20" height="2" rx="1" transform="translate(895 2777)"/>
+      <rect id="Rectangle_575" data-name="Rectangle 575" class="cls-2" width="20" height="2" rx="1" transform="translate(863 2787)"/>
+      <rect id="Rectangle_574" data-name="Rectangle 574" class="cls-2" width="12" height="2" rx="1" transform="translate(895 2782)"/>
+      <rect id="Rectangle_568" data-name="Rectangle 568" class="cls-2" width="72" height="2" transform="translate(855 2731)"/>
+      <circle id="Ellipse_67" data-name="Ellipse 67" class="cls-2" cx="1" cy="1" r="1" transform="translate(858 2727)"/>
+      <circle id="Ellipse_68" data-name="Ellipse 68" class="cls-2" cx="1" cy="1" r="1" transform="translate(862.886 2727)"/>
+      <circle id="Ellipse_69" data-name="Ellipse 69" class="cls-2" cx="1" cy="1" r="1" transform="translate(867.773 2727)"/>
+      <g id="Ellipse_70" data-name="Ellipse 70" class="cls-4" transform="translate(863 2739)">
+        <circle class="cls-6" cx="13" cy="13" r="13"/>
+        <circle class="cls-7" cx="13" cy="13" r="12"/>
+      </g>
+      <g id="Ellipse_71" data-name="Ellipse 71" class="cls-4" transform="translate(904 2746)">
+        <circle class="cls-6" cx="3.5" cy="3.5" r="3.5"/>
+        <circle class="cls-7" cx="3.5" cy="3.5" r="2.5"/>
+      </g>
+      <path id="Path_126" data-name="Path 126" class="cls-5" d="M3187,2740s.634-2,3.5-2,3.5,2,3.5,2" transform="translate(-2283 17)"/>
+      <g id="Group_59" data-name="Group 59" transform="translate(-1197 1456)">
+        <g id="Rectangle_143" data-name="Rectangle 143" class="cls-1" transform="translate(2071.136 1290.909)">
+          <path class="cls-6" d="M1,0H3.909a3,3,0,0,1,3,3v.045a3,3,0,0,1-3,3H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z"/>
+          <path class="cls-7" d="M1,1H3.909a2,2,0,0,1,2,2v.045a2,2,0,0,1-2,2H2a1,1,0,0,1-1-1V1A0,0,0,0,1,1,1Z"/>
+        </g>
+        <g id="Rectangle_140" data-name="Rectangle 140" class="cls-1" transform="translate(2069.328 1297.489)">
+          <rect id="fill" class="cls-6" width="6.126" height="1.727" rx="0.864"/>
+          <path class="cls-8" d="M0,0.7272727489471436h6.126420497894287M5.126420497894287,0v1.7272727489471436M6.126420497894287,1h-6.126420497894287M1,1.7272727489471436v-1.7272727489471436"/>
+        </g>
+        <g id="Rectangle_142" data-name="Rectangle 142" class="cls-1" transform="translate(2072.864 1290.909) rotate(90)">
+          <rect id="fill-2" class="cls-6" width="10.364" height="1.727" rx="0.864"/>
+          <path class="cls-9" d="M0,0.7272727489471436h10.363636016845703M9.363636016845703,0v1.7272727489471436M10.363636016845703,1h-10.363636016845703M1,1.7272727489471436v-1.7272727489471436"/>
+        </g>
+        <g id="Rectangle_141" data-name="Rectangle 141" class="cls-1" transform="translate(2069.328 1295.227)">
+          <rect id="fill-3" class="cls-6" width="6.126" height="1.727" rx="0.864"/>
+          <path class="cls-10" d="M0,0.7272727489471436h6.126420497894287M5.126420497894287,0v1.7272727489471436M6.126420497894287,1h-6.126420497894287M1,1.7272727489471436v-1.7272727489471436"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
