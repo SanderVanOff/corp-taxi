@@ -17,5 +17,5 @@
   - карусель для смены фона; 
   - страница добавлена на GitHub
 
-Ссылка: https://sanderbest.github.io/corp-taxi/
+Ссылка: https://7290906.github.io/corp-taxi/
 ![YRz7nnyLMhEZ9Jdb](https://user-images.githubusercontent.com/61217980/129900415-0630f5fa-b054-4527-92c3-6e7f7bfd2387.png)
